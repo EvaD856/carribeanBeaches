@@ -24,10 +24,6 @@ p{
 }
 
 body{
-	/*background-image: url("../images/home_Beach.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	min-height: 800px; */
 	background-color:lightblue;
 
 }
@@ -45,8 +41,7 @@ main{
 nav li {
 	list-style:none;
 	display:inline;
-	text-align:center;
-	margin: 1.3%;
+	margin: 0%;
 	padding:1%;
 	
 }
@@ -87,10 +82,6 @@ footer p{
 
 footer{
 	clear:both;
-}
-
-footer nav li {
-	margin:0.3%;	
 }
 
 #letters{
